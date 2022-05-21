@@ -2,11 +2,4 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-
-## Notas
-Pueden hacer lo que quieran...
-
-## Hola desde Github
-Este mensaje es desde github
-
-#Hola Mundo
+## Estos cambos son nuevos
